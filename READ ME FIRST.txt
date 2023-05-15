@@ -1,0 +1,5 @@
+This project is a Classroom Management System.
+The projects goal was to help my partner and student teaching friends with the management of their classrooms during covid.
+The idea was to have an area to store their classroom documents, lesson plans and perform classroom registration.
+
+Code is accessible thorugh the 'src' folder.
